@@ -1,0 +1,113 @@
+[[tree_sitter_python]]
+arch = "aarch64"
+git-tree-sha1 = "27b8c35d34d221fd72dfad0978f0976e107f7107"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_python.download]]
+    sha256 = "f7a9d6171d8b687b2100df127b0fdfd17a1059614d067c84aef5aae5152e60ba"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_python_jll.jl/releases/download/tree_sitter_python-v0.16.1+0/tree_sitter_python.v0.16.1.aarch64-linux-gnu.tar.gz"
+[[tree_sitter_python]]
+arch = "aarch64"
+git-tree-sha1 = "14c1e433dc0b3fe96c9860436735c32cb0e3ad1c"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_python.download]]
+    sha256 = "e6665702a0a5f7aab174f3249a341b45e79d6c098fd50a8fb92be829a6b32243"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_python_jll.jl/releases/download/tree_sitter_python-v0.16.1+0/tree_sitter_python.v0.16.1.aarch64-linux-musl.tar.gz"
+[[tree_sitter_python]]
+arch = "armv7l"
+git-tree-sha1 = "06a924b4c719c3e45869c33528b1029ac752700d"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_python.download]]
+    sha256 = "444eb0989cba6f964b4add3d887a04a5ddb67caf2d3ccbedd37eef2d9497a46b"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_python_jll.jl/releases/download/tree_sitter_python-v0.16.1+0/tree_sitter_python.v0.16.1.armv7l-linux-gnueabihf.tar.gz"
+[[tree_sitter_python]]
+arch = "armv7l"
+git-tree-sha1 = "d73f7b7c97647cf644fb55ed06c9dd89f7156d2d"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_python.download]]
+    sha256 = "fabd11b1f4ec9c3dabcd8a029cc0b884f38b59b37087db5237ddf68316841468"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_python_jll.jl/releases/download/tree_sitter_python-v0.16.1+0/tree_sitter_python.v0.16.1.armv7l-linux-musleabihf.tar.gz"
+[[tree_sitter_python]]
+arch = "i686"
+git-tree-sha1 = "018672274ff9b53e70e9b1ed8b15254420dadc4a"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_python.download]]
+    sha256 = "a03fea7b45e206e340cd484b5fa503cf1a67e76e0401623c2768c47b9bb4a6bf"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_python_jll.jl/releases/download/tree_sitter_python-v0.16.1+0/tree_sitter_python.v0.16.1.i686-linux-gnu.tar.gz"
+[[tree_sitter_python]]
+arch = "i686"
+git-tree-sha1 = "508d29308fb32aeaab8d66f1bc849a10e89e1c27"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_python.download]]
+    sha256 = "dcc918db06c8095b6a9a2d4bbfafe6972e03b5afe6df8c84337ddd557a108099"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_python_jll.jl/releases/download/tree_sitter_python-v0.16.1+0/tree_sitter_python.v0.16.1.i686-linux-musl.tar.gz"
+[[tree_sitter_python]]
+arch = "i686"
+git-tree-sha1 = "53ff36696a24eae0de12ab1a670474f4222c4ddb"
+os = "windows"
+
+    [[tree_sitter_python.download]]
+    sha256 = "1e8222bdd4051c6cbf7988387f544a6832bc73049afd7ef541c9216a37194088"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_python_jll.jl/releases/download/tree_sitter_python-v0.16.1+0/tree_sitter_python.v0.16.1.i686-w64-mingw32.tar.gz"
+[[tree_sitter_python]]
+arch = "powerpc64le"
+git-tree-sha1 = "a05553ce5fc3f314a7a6662acbe3f921175a83d0"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_python.download]]
+    sha256 = "15bf9336ef57b765cd6cea49c4783812e0239968892f58735de2a88ce1be33f7"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_python_jll.jl/releases/download/tree_sitter_python-v0.16.1+0/tree_sitter_python.v0.16.1.powerpc64le-linux-gnu.tar.gz"
+[[tree_sitter_python]]
+arch = "x86_64"
+git-tree-sha1 = "7ebb53a10d8200c39e1379287b4a806692664ab4"
+os = "macos"
+
+    [[tree_sitter_python.download]]
+    sha256 = "ac8a1f16007d22b0fd128d5e74cf75ffb4b3a571f449aab676a14c7c3b8c6813"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_python_jll.jl/releases/download/tree_sitter_python-v0.16.1+0/tree_sitter_python.v0.16.1.x86_64-apple-darwin14.tar.gz"
+[[tree_sitter_python]]
+arch = "x86_64"
+git-tree-sha1 = "9a11a5e784f3e255963f551e89c63c148944b8d2"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_python.download]]
+    sha256 = "7fe2c5b4297badbadee20e76a477a996b4072faae5cdd800b98441530423b63c"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_python_jll.jl/releases/download/tree_sitter_python-v0.16.1+0/tree_sitter_python.v0.16.1.x86_64-linux-gnu.tar.gz"
+[[tree_sitter_python]]
+arch = "x86_64"
+git-tree-sha1 = "f9c7b238eb1a2f10e887a6ef3eb3dd05c3936797"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_python.download]]
+    sha256 = "3147cd89d3e211f057f0a840271dea70f8130eba46bb63dfe9c5b97252301817"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_python_jll.jl/releases/download/tree_sitter_python-v0.16.1+0/tree_sitter_python.v0.16.1.x86_64-linux-musl.tar.gz"
+[[tree_sitter_python]]
+arch = "x86_64"
+git-tree-sha1 = "118e9ce250e4cdcc4b9359e4a625409ebd04bc40"
+os = "freebsd"
+
+    [[tree_sitter_python.download]]
+    sha256 = "cbc3c292158c1a5bb0e9ab32ebc9a633f85a21f67efdefbd895ef03f6969fdc2"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_python_jll.jl/releases/download/tree_sitter_python-v0.16.1+0/tree_sitter_python.v0.16.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[tree_sitter_python]]
+arch = "x86_64"
+git-tree-sha1 = "c6a4c2f28ce1e0ea3ed882ed21609ac48393fdb5"
+os = "windows"
+
+    [[tree_sitter_python.download]]
+    sha256 = "5d432ba3f07b5b467d2b0b1d99e05420d3cc8c7536958f8a4d9af523b4cfebf2"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_python_jll.jl/releases/download/tree_sitter_python-v0.16.1+0/tree_sitter_python.v0.16.1.x86_64-w64-mingw32.tar.gz"
